@@ -1,0 +1,25 @@
+nav.navbar.navbar-expand-lg.navbar-light.bg-light {
+  padding: 15px;
+}
+.centertext {
+  text-align: center;
+}
+.btnw {
+  width: 100%;
+}
+li.liclass {
+  background-color: rgba(0, 0, 0, 0.1);
+  list-style-type: none;
+}
+.pad {
+  margin-left: 10px;
+}
+.liclass {
+  padding: 5px;
+}
+.btnsmall {
+  padding: 0px !important;
+}
+.row {
+  padding-top: 10px !important;
+}
